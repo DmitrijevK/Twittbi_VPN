@@ -1,2 +1,16 @@
-# Twittbi_VPN
-Vless VPN Client With 2fa 
+## 📖 About
+
+This project is powered by **Xray-core**, providing a high-performance and reliable networking engine with support for modern proxy protocols.
+
+The client is built upon the architecture of **v2rayN**, serving as the foundation for the application's interface and workflow. While leveraging its proven design, the project introduces numerous custom improvements, optimizations, and additional features to enhance usability, performance, and overall user experience.
+
+### ✨ Highlights
+
+- 🚀 Powered by **Xray-core**
+- 🎯 Based on the **v2rayN** client architecture
+- ⚡ Enhanced performance and stability
+- 🛠️ Custom UI and feature improvements
+- 🔒 Support for modern proxy protocols
+- 💡 Designed with simplicity, flexibility, and reliability in mind
+
+> **Credits:** This project is built upon the excellent open-source projects **Xray-core** and **v2rayN**. Many thanks to their maintainers and contributors for making this project possible.
