@@ -12,5 +12,3 @@ The client is built upon the architecture of **v2rayN**, serving as the foundati
 - 🛠️ Custom UI and feature improvements
 - 🔒 Support for modern proxy protocols
 - 💡 Designed with simplicity, flexibility, and reliability in mind
-
-> **Credits:** This project is built upon the excellent open-source projects **Xray-core** and **v2rayN**. Many thanks to their maintainers and contributors for making this project possible.
